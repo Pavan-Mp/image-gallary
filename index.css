@@ -6,7 +6,7 @@ padding: 0;
     height: 92px;
     margin: 10px 0;
     cursor: pointer;
-    display: block;
+    display:block;
     opacity: 0.6;
 }
 .product-small-img{
